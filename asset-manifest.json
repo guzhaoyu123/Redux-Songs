@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Redux-Songs/static/js/main.a20ec5a2.chunk.js",
+    "main.js.map": "/Redux-Songs/static/js/main.a20ec5a2.chunk.js.map",
+    "runtime-main.js": "/Redux-Songs/static/js/runtime-main.b7b5b757.js",
+    "runtime-main.js.map": "/Redux-Songs/static/js/runtime-main.b7b5b757.js.map",
+    "static/js/2.cbd588bd.chunk.js": "/Redux-Songs/static/js/2.cbd588bd.chunk.js",
+    "static/js/2.cbd588bd.chunk.js.map": "/Redux-Songs/static/js/2.cbd588bd.chunk.js.map",
+    "index.html": "/Redux-Songs/index.html",
+    "static/js/2.cbd588bd.chunk.js.LICENSE.txt": "/Redux-Songs/static/js/2.cbd588bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7b5b757.js",
+    "static/js/2.cbd588bd.chunk.js",
+    "static/js/main.a20ec5a2.chunk.js"
+  ]
+}
